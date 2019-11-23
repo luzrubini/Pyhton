@@ -80,10 +80,5 @@ Tabla ---------> Clase
 #No vemos las tablas intermedias
 #Relacion de muchos a muchos
 #El ORM de django no hace join de bd de manera automatica
-#
-#
-#
-#
-#
-#
+
 #
